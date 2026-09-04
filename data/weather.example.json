@@ -1,0 +1,22 @@
+{
+  "source": "accuweather",
+  "location": "Berlin",
+  "fetchedAt": "2026-09-04T06:00:00.000Z",
+  "requestedDays": 28,
+  "availableDays": 2,
+  "sourceUrl": "https://www.accuweather.com/",
+  "days": [
+    {
+      "date": "2026-09-04",
+      "temperatureMin": 12,
+      "temperatureMax": 21,
+      "condition": "sun"
+    },
+    {
+      "date": "2026-09-05",
+      "temperatureMin": 13,
+      "temperatureMax": 19,
+      "condition": "mixed"
+    }
+  ]
+}
