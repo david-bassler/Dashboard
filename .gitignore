@@ -1,0 +1,5 @@
+.env
+dist/
+data/weather.json
+data/*.tmp
+.DS_Store
